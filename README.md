@@ -6,6 +6,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/vtu28343-Ajay/unit-2-problem-solving-testing-week-4/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vtu28343-Ajay/unit-2-problem-solving-testing-week-4/tree/master/0283-move-zeroes) |
+| [0867-transpose-matrix](https://github.com/vtu28343-Ajay/unit-2-problem-solving-testing-week-4/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,4 +19,12 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/vtu28343-Ajay/unit-2-problem-solving-testing-week-4/tree/master/0283-move-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/vtu28343-Ajay/unit-2-problem-solving-testing-week-4/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/vtu28343-Ajay/unit-2-problem-solving-testing-week-4/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
